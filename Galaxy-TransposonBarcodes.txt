@@ -1,0 +1,7 @@
+#donor barcodes
+pen	ATTCG
+cap	CCACG
+tuf	ATCCG
+blunt	TACCG
+dual	AATCG
+erm	TGCCG

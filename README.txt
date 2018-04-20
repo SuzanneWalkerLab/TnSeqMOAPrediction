@@ -3,11 +3,11 @@ README.txt
 -----
 Purpose of this repository is to provide the tools to reproduce the analysis performed for the paper "Genome-wide mutant fitness profiling predicts the mechanism of action of a Lipid II binding antibiotic" 
 
-CITATION: []
+CITATION: Santiago M, Lee W, Fayad AA, Coe KA, Rajagopal M, Do T, Hennessen F, Srisuknimit V, Müller R, Meredith TC, Walker S. Genome-wide mutant profiling predicts the mechanism of a Lipid II binding antibiotic, Nat Chem Bio. 2018 Apr 16. doi: 10.1038/s41589-018-0041-4. 
 -----
 
 FASTQ TO TABULAR FILE: HOW TO USE GALAXY TO TRIM AND FILTER SEQUENCES AND ALIGN TO GENOME
-FastQsanger files can be found at NCBI SRA [reference code]
+FastQsanger files can be found at NCBI SRA accession ID SRP124730.
 Galaxy is a an open source, web-based platform for data intensive biomedical research. The following analyses were performed on the Galaxy Service hosted by Tufts Genomics. 
 
 1) GET DATA: Get Data > Upload File
